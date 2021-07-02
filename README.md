@@ -1,0 +1,2 @@
+# bitimage
+image binarize 
